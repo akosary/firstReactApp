@@ -1,0 +1,8 @@
+.customCard {
+  display: inline-block;
+}
+.customCard img {
+  width: 100%;
+  height: 30vh;
+  object-fit: cover;
+}
